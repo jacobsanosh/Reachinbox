@@ -18,7 +18,7 @@ export default function LeftNav() {
           </div>
         </Link>
         <div className="flex flex-col justify-center items-center gap-7 text-2xl">
-          <Link href="/home">
+          <Link href="/">
             <div className=" hover:bg-hover_left p-3  rounded-lg ">
               <Image alt="Home" src={home} className="w-10 h-10" />
             </div>
